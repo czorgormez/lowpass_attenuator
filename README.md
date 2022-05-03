@@ -1,7 +1,12 @@
 # lowpass_attenuator
 7th order elliptic low pass and 50 ohm attenuator pcb
 
-4 layer JLCPCB 7628 stackup compatible 
+-30 Mhz Shunt first and Series first topology ellipic low pass filter. other values 
+can be calculated by LC filter tool with same topology. 
+
+- 10-20-30-40 dB attenuation is possible with ohmite TFA20C10DBER or similar 0805 attenuators. 
+
+pcb is designed for 4 layer JLCPCB 7628 stackup.  
 
 LC filter design tool: https://rf-tools.com/lc-filter/
 
